@@ -1,0 +1,13 @@
+#formcontainer {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: darkseagreen;
+    border: none;
+    padding: 25px;
+    color: black;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+
+}
